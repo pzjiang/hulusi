@@ -4,34 +4,34 @@ import Layout from "../components/layout.js"
 
 const students = [
     {
-        name: "",
+        name: "Alison Li",
         assignments:
             [],
-        group: "",
+        group: "TBD",
     },
     {
-        name: "",
+        name: "Ethan Chen",
         assignments:
             [],
-        group: "",
+        group: "TBD",
     },
     {
-        name: "",
+        name: "Joseph Wang",
         assignments:
             [],
-        group: "",
+        group: "TBD",
     },
     {
-        name: "",
+        name: "Kaibo Zhang",
         assignments:
             [],
-        group: "",
+        group: "TBD",
     },
     {
-        name: "",
+        name: "Thomas Chen",
         assignments:
             [],
-        group: "",
+        group: "TBD",
     }
 
 ]
@@ -40,6 +40,19 @@ const GroupPage = () => {
     return (
         <div>
             <Layout>
+
+                <div class="groupdesk">
+                    <ul class="grouplist">
+                        {students.map(student => (
+                            <div class="studenttab">
+                                <h1 class="rostername">{student.name}</h1>
+                                <h4>Group: {student.group}</h4>
+
+                            </div>
+                        ))}
+
+                    </ul>
+                </div>
 
 
             </Layout>
