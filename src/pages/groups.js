@@ -52,7 +52,7 @@ const GroupPage = () => {
                                 <ul>
                                     {student.assignment.map(vid => (
                                         <div>
-
+                                            <p>testing</p>
                                         </div>
                                     ))}
                                 </ul>
