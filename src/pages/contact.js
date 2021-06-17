@@ -5,6 +5,7 @@ const ContactPage = () => {
     return (
         <div>
             <Layout>
+                <title>Contact</title>
                 <div class="email">
                     <h1>Email</h1>
                     <p>pzjiang01@hotmail.com</p>

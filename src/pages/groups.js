@@ -42,11 +42,20 @@ const GroupPage = () => {
             <Layout>
 
                 <div class="groupdesk">
+                    <title>Students</title>
                     <ul class="grouplist">
                         {students.map(student => (
                             <div class="studenttab">
                                 <h1 class="rostername">{student.name}</h1>
                                 <h4>Group: {student.group}</h4>
+                                <h4>Videos</h4>
+                                <ul>
+                                    {student.assignment.map(vid => (
+                                        <div>
+
+                                        </div>
+                                    ))}
+                                </ul>
 
                             </div>
                         ))}

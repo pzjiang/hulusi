@@ -17,7 +17,7 @@ const AnnouncementPage = () => {
     return (
         <div>
             <Layout>
-
+                <title>Announcements</title>
                 <ul class="announcementtab">
                     {information.map(announce => (
                         <div class="announcebox">
