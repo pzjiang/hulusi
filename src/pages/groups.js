@@ -49,13 +49,7 @@ const GroupPage = () => {
                                 <h1 class="rostername">{student.name}</h1>
                                 <h4>Group: {student.group}</h4>
                                 <h4>Videos Assignments:</h4>
-                                <ul>
-                                    {student.assignment.map(vid => (
-                                        <div>
-                                            <p>testing</p>
-                                        </div>
-                                    ))}
-                                </ul>
+
 
                             </div>
                         ))}
