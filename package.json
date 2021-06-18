@@ -15,9 +15,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.6.2",
-    "gatsby-plugin-gatsby-cloud": "^2.6.1",
+    "gatsby": "^2.32.13",
+    "gatsby-plugin-gatsby-cloud": "^1.0.2",
+    "gatsby-plugin-typography": "^2.12.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-typography": "^0.16.20",
+    "typography": "^0.16.21"
   }
 }
