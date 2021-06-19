@@ -11,6 +11,11 @@ const information = [
         content: "The first class will be held on Wednesday, 6/9/2021 at 4:30 pm. As stated in syllabus, this will be an eight week course with 1 class per week. The future classes will most likely remain on the same time and day unless a conflict arises.",
 
     },
+    {
+        title: "Homework",
+        date: "6/18/2021",
+        content: "A new section has been added to the syllabus, containing demonstration videos of the homework pieces. Please check at your own convenience, and make sure to practice!",
+    }
 ]
 
 const AnnouncementPage = () => {
