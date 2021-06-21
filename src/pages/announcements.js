@@ -23,7 +23,8 @@ const AnnouncementPage = () => {
         <div>
             <Layout>
                 <title>Announcements</title>
-                <ul class="announcementtab">
+
+                <div class="announcementtab">
                     {information.map(announce => (
                         <div class="announcebox">
                             <h2 class="announcetitle">{announce.title}</h2>
@@ -33,7 +34,8 @@ const AnnouncementPage = () => {
 
                     ))}
 
-                </ul>
+                </div>
+
 
 
 
