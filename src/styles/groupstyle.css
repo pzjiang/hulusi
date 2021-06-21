@@ -5,5 +5,7 @@
 }
 
 .announcementtab {
-    margin: 4rem;
+    display: flex;
+    row-gap: 3rem;
+    justify-content: space-between;
 }
