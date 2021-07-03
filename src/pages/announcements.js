@@ -15,6 +15,11 @@ const information = [
         title: "Homework",
         date: "6/18/2021",
         content: "A new section has been added to the syllabus, containing demonstration videos of the homework pieces. Please check at your own convenience, and make sure to practice!",
+    },
+    {
+        title: "Demos",
+        date: "7/2/2021",
+        content: "New demo videos for this week's homework released. Please check syllabus for the video links, and make sure to practice!"
     }
 ]
 
