@@ -185,9 +185,12 @@ const IndexPage = () => {
               </h1>
 
               <a href="https://www.youtube.com/watch?v=lQuNvLFG6vc">Exercise 1</a>
-              <a href="https://www.youtube.com/watch?v=izFRhVaw_NE">Exercise 2</a>
-              <a href="https://www.youtube.com/watch?v=Lwge4WxqR8Q">Bonus Homework 1</a>
+              <br></br>
 
+              <a href="https://www.youtube.com/watch?v=izFRhVaw_NE">Exercise 2</a>
+              <br></br>
+              <a href="https://www.youtube.com/watch?v=Lwge4WxqR8Q">Bonus Homework 1</a>
+              <br></br>
 
             </ul>
 
