@@ -37,7 +37,9 @@ const AnnouncementPage = () => {
                             <p>{announce.content}</p>
                         </div>
 
+
                     ))}
+
 
                 </div>
 
