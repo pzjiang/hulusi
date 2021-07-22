@@ -5,7 +5,7 @@
 }
 
 .announcementtab {
-    display: list-item;
+    
     row-gap: 3rem;
     justify-content: space-between;
 }
