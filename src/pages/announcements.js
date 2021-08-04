@@ -25,6 +25,21 @@ const information = [
         title: "Starting the performance piece",
         date: "7/14/2021",
         content: "Everyone make sure to practice the performance piece, as it will be tested in its entirety next week!"
+    },
+    {
+        title: "Focus on Basics",
+        date: "7/21/2021",
+        content: "The basic skills are slightly lacking for most of the students. Make sure to look over past pieces as well!"
+    },
+    {
+        title: "Background music",
+        date: "7/22/2021",
+        content: "Background music has been uploaded to the google drive. Maker sure to check it out and try playing along!"
+    },
+    {
+        title: "New Piece",
+        date: "8/4/2021",
+        content: "We will start the next piece, 月光下的分为主，while also perfecting the piece"
     }
 ]
 
