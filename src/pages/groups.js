@@ -7,31 +7,31 @@ const students = [
         name: "Alison Li",
         assignments:
             [],
-        group: "TBD",
+        group: "A",
     },
     {
         name: "Ethan Chen",
         assignments:
             [],
-        group: "TBD",
+        group: "A",
     },
     {
         name: "Joseph Wang",
         assignments:
             [],
-        group: "TBD",
+        group: "A",
     },
     {
         name: "Kaibo Zhang",
         assignments:
             [],
-        group: "TBD",
+        group: "A",
     },
     {
         name: "Thomas Chen",
         assignments:
             [],
-        group: "TBD",
+        group: "A",
     }
 
 ]
@@ -47,8 +47,8 @@ const GroupPage = () => {
                         {students.map(student => (
                             <div class="studenttab">
                                 <h1 class="rostername">{student.name}</h1>
-                                <h4>Group: {student.group}</h4>
-                                <h4>Videos Assignments:</h4>
+                                <h4>Class: {student.group}</h4>
+                                <h4>Song progress: 月光下的分为主</h4>
 
 
                             </div>
