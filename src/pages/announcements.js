@@ -38,8 +38,14 @@ const information = [
     },
     {
         title: "New Piece",
-        date: "8/4/2021",
+        date: "7/28/2021",
         content: "We will start the next piece, 月光下的分为主，while also perfecting the piece"
+    },
+    {
+        title: "Last class for the Summer",
+        date: "8/4/2021",
+        content: "As this is the last class we will not be learning anything new. Review class of everythign covered so far!"
+
     }
 ]
 
