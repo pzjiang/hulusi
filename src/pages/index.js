@@ -34,22 +34,22 @@ const links = [
     text: "Week 1",
     description:
 
-      ["Introductions / Icebreakers",
-        "Introduce how to hold instrument",
-        "Go over note notation as well as note fingerings"],
+      ["Go over goals for new semester",
+        "Review technical skills taught last semester",
+        "Review Tu Yin"],
 
 
     homework:
-      ["Basic exercise pieces",]
+      ["Old technical skill exercise pieces",]
     ,
     color: "#000000",
   },
   {
     text: "Week 2",
     description:
-      ["Review the note fingerings and correct any bad habits",
-        "Introduce tu yin and da yin",
-        "Give basic practice pieces for tu yin and da yin",
+      ["Review 知道不知道",
+        "Make sure it approaches performance worthy status",
+
       ]
     ,
 
@@ -159,7 +159,7 @@ const IndexPage = () => {
 
               <p>8 week class</p>
 
-              <p>Wednesdays 4:30 pm - 5:30 pm</p>
+              <p>Mondays 7:15pm - 8:15pm</p>
 
             </ul>
             <ul>
