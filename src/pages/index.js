@@ -53,7 +53,7 @@ const links = [
       ]
     ,
 
-    homework: ["Exercise pieces for Tu Yin and Da Yin"]
+    homework: ["Review the song and make sure to keep in time with the music"]
 
     ,
     color: "#000000",
@@ -61,14 +61,12 @@ const links = [
   {
     text: "Week 3",
     description:
-      ["Review the note fingerings and correct any bad habits",
-        "Introduce Hua Yin and Zhan Yin as well exercise pieces to increase familiarity",
-        "Introduce exercise pieces for note fingering familiarity",
+      ["Review 月光下的分为主",
+        "Go over where to add in hua yin"
       ]
     ,
 
-    homework: ["Exercise pieces for Hua Yin and Zhan Yin",
-      "Exercise pieces for note familiarity",
+    homework: ["Continue playing the new piece and adding in hua yin where possible",
     ]
 
     ,
@@ -77,15 +75,12 @@ const links = [
   {
     text: "Week 4",
     description:
-      ["Review exercise pieces given last week",
-        "Introduce hua yin and give exercise pieces to increase familiarity",
-        "Give more advanced exercise pieces for note familiarity",
-        "Introduce beginner song 知道不知道",
+      ["Learn first part with the background music",
+        "Go over how to add in tu yin and da yin to separate notes"
       ]
     ,
 
-    homework: ["Exercise pieces for note familiarity",
-      "Begin memorization of beginner piece",
+    homework: ["Begin practicing with the background music"
     ]
 
     ,
@@ -94,14 +89,12 @@ const links = [
   {
     text: "Week 5",
     description:
-      ["Continue memorization of beginner song",
-        "Finalize adding techinical skills to beginner song",
-        "Introduce background music to the beginner song",
+      ["Review beginner song, this time with memorization",
+        "Work on memorization of the skills as well as the notes"
       ]
     ,
 
-    homework: ["Practice beginner song with new techinical skills",
-      "Add in own technical skills to the piece",
+    homework: ["Work on memorizing the beginner song completely so it can be performed"
     ]
 
     ,
@@ -110,11 +103,11 @@ const links = [
   {
     text: "Week 6",
     description:
-      ["Finalize playing the beginner song along with the background music",
-        "Create two separate groups for performing the songs.",
-        "Introduce the second song options and allow students to choose one (if ready)",
+      ["Learn the next part of the background music for the second song"
+        ,
+        "Practice taking less breaths so that the music is less choppy"
       ],
-    homework: ["Finalize making the beginner song performance worthy"]
+    homework: ["Work on developing better lungs as well as rationing air while playing"]
   },
   {
     text: "Week 7",
