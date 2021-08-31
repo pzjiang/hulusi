@@ -152,6 +152,7 @@ const IndexPage = () => {
               <h1>Class Schedule</h1>
 
               <p>8 week class</p>
+              <p>Start Date: September 6th, 2021</p>
 
               <p>Mondays 7:15pm - 8:15pm</p>
 
