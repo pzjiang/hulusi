@@ -113,24 +113,25 @@ const links = [
     text: "Week 7",
     description:
       [
-        "Review beginner song with background music",
-        "Begin running through the second song without background music and add in techinical skills"
+        "Learn the third part of the song with background music ",
+        "Begin memorization of parts that have been learned"
       ],
     homework:
       [
-        "Review beginner song with background music in order to ensure performance quality"
+        "Continue practicing memorizing not just the notes, but also the skills"
       ],
   },
   {
     text: "Week 8",
     description:
       [
-        "Introduce background music for the second song options.",
-        "Begin incorporating technical skills along with the background",
+        "Finish the background music for the second song",
+        "Learn to memorize the second song",
+        "Learn how to perform the second song"
       ],
     homework:
       [
-        "None, end of the summer semester!"
+        "None, end of the fall semester!"
       ],
   }
 
